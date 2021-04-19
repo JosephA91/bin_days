@@ -1,0 +1,70 @@
+{
+  "addresses": [
+    {
+      "street_address": "39 BEAUFORT STREET",
+      "suburb": "WEST TOODYAY",
+      "state": "WA",
+      "postcode": 6566,
+      "ward": "CENTRAL",
+      "general_waste_start": "03/04/2017",
+      "general_waste_frequency": 7,
+      "recycling_waste_start": "03/04/2017",
+      "recycling_waste_frequency": 14,
+      "green_waste_start": "10/04/2017",
+      "green_waste_frequency": 14
+    },
+    {
+      "street_address": "529 BEAUFORT STREET",
+      "suburb": "WEST TOODYAY",
+      "state": "WA",
+      "postcode": 6566,
+      "ward": "NORTH",
+      "general_waste_start": "03/04/2017",
+      "general_waste_frequency": 7,
+      "recycling_waste_start": "03/04/2017",
+      "recycling_waste_frequency": 14,
+      "green_waste_start": "10/04/2017",
+      "green_waste_frequency": 14
+    },
+    {
+      "street_address": "240 BEAUFORT STREET",
+      "suburb": "WEST TOODYAY",
+      "state": "WA",
+      "postcode": 6566,
+      "ward": "NORTH",
+      "general_waste_start": "03/04/2017",
+      "general_waste_frequency": 7,
+      "recycling_waste_start": "03/04/2017",
+      "recycling_waste_frequency": 14,
+      "green_waste_start": "10/04/2017",
+      "green_waste_frequency": 14
+    },
+    {
+      "street_address": "394 BEAUFORT STREET",
+      "suburb": "WEST TOODYAY",
+      "state": "WA",
+      "postcode": 6566,
+      "ward": "NORTH",
+      "general_waste_start": "03/04/2017",
+      "general_waste_frequency": 7,
+      "recycling_waste_start": "03/04/2017",
+      "recycling_waste_frequency": 14,
+      "green_waste_start": "10/04/2017",
+      "green_waste_frequency": 14
+    },
+    {
+      "external_id": "A1025",
+      "street_address": "75 FITZGERALD TERRACE",
+      "suburb": "WEST TOODYAY",
+      "state": "WA",
+      "postcode": 6566,
+      "ward": "NORTH",
+      "general_waste_start": "03/04/2017",
+      "general_waste_frequency": 7,
+      "recycling_waste_start": "03/04/2017",
+      "recycling_waste_frequency": 14,
+      "green_waste_start": "10/04/2017",
+      "green_waste_frequency": 14
+    }
+  ]
+}
