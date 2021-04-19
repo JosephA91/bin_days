@@ -1,13 +1,13 @@
 # Bin Days Finder
 
 ## Version 1 Requirements (Ruby Code):
-[x] Store a list of addresses with bin days information in either csv or json
-[x] Write a query to take in an address
-[x] Search if that address exists
-[x] Return a the next bin days for that address
-[x] Return "No Results Found" if address not found
-[x] Terminal App to search and return bin days "bin_days.rb"
-[x] Pass dwelling tests
+[x] Store a list of addresses with bin days information in either csv or json  
+[x] Write a query to take in an address  
+[x] Search if that address exists  
+[x] Return a the next bin days for that address  
+[x] Return "No Results Found" if address not found  
+[x] Terminal App to search and return bin days "bin_days.rb"  
+[x] Pass dwelling tests  
 
 ## Version 2 Requirements (Rails API):
 1. Build a simple rails API to return bin days for a valid address (GET request) in json format
